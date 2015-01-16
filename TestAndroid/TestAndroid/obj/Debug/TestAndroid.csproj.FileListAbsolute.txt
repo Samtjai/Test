@@ -1,0 +1,13 @@
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\bin\Debug\TestAndroid.dll
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\bin\Debug\TestAndroid.pdb
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\bin\Debug\TestAndroid.dll.mdb
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\bin\Debug\TestAndroid.TestAndroid.apk
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\bin\Debug\TestAndroid.TestAndroid-Signed.apk
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\obj\Debug\TestAndroid.dll
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\obj\Debug\TestAndroid.pdb
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\obj\Debug\android\bin\TestAndroid.TestAndroid.apk
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\obj\Debug\res\layout\main.xml
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\obj\Debug\res\values\strings.xml
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\obj\Debug\res\drawable\icon.png
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\obj\Debug\R.cs.flag
+D:\Data\sch20804\Documents\Projects\TestAndroid\TestAndroid\obj\Debug\uploadflags.txt
